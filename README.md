@@ -14,17 +14,17 @@ were removed.
 ## Part 3: Exploratory Analysis
 For our analysis please open up the NoSQL_analysis_starter.ipynb file. The following are the questions that were answered:
 
-1. Which establishments have a hygiene score equal to 20?
+1. Which establishments have a hygiene score equal to 20?  
    There were 41 establishments that had this hygiene score. The names can be found in the results_df dataframe.
 
-2. Which establishments in London have a RatingValue greater than or equal to 4?
+2. Which establishments in London have a RatingValue greater than or equal to 4?  
    33 establishments in London have a RatingValue greater than or equal to 4. Names of these establishments can be found in the results_londong DataFrame.
 
-3. What are the top 5 establishments with a RatingValue of 5, sorted by lowest hygiene score, nearest to the new restaurant added, "Penang Flavours"?
+3. What are the top 5 establishments with a RatingValue of 5, sorted by lowest hygiene score, nearest to the new restaurant added, "Penang Flavours"?  
    Here are the top 5 establishments with a RatingValue of 5 near Penang Falvours: TIWA N TIWA African Restaurant Ltd, Fineway Cash & Carry,
    Lucky Food & Wine, Premier Express, and Everest Stores Ltd.
 
-4. How many establishments in each Local Authority area have a hygiene score of 0? Sort the results from highest to lowest, and print out the top ten local authority areas.
+4. How many establishments in each Local Authority area have a hygiene score of 0? Sort the results from highest to lowest, and print out the top ten local authority areas.  
    The number of establishments was 55 and below are the top ten:
 	Thanet	
 	Greenwich	
